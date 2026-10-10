@@ -56,8 +56,8 @@ Gosto de trabalhar na ponte entre software e hardware: de APIs e bases de dados 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gugajac/gugajac/output/snake-dark.svg#gh-dark-mode-only" alt="Snake contribution graph" />
-<img src="https://raw.githubusercontent.com/gugajac/gugajac/output/snake.svg#gh-light-mode-only" alt="Snake contribution graph" />
+<img src="https://raw.githubusercontent.com/gugajac/gugajac/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pac-Man contribution graph" />
+<img src="https://raw.githubusercontent.com/gugajac/gugajac/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pac-Man contribution graph" />
 
 </div>
 

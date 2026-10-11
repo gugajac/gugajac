@@ -28,36 +28,11 @@ Gosto de trabalhar na ponte entre software e hardware: de APIs e bases de dados 
 
 <br>
 
-## Projeto em Destaque
-
-<div align="center">
-
-<a href="https://github.com/gugajac/WhiteDent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gugajac&repo=WhiteDent&theme=dark&bg_color=000000&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&border_color=30363d" alt="WhiteDent" />
-</a>
-
-<sub>Sistema de gestão de clínica dentária</sub>
-
-</div>
-
-<br>
-
 ## Linguagens
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugajac&layout=compact&hide_progress=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=bdbdbd&border_color=30363d" alt="Top Languages" />
-
-</div>
-
-<br>
-
-## Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gugajac/gugajac/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pac-Man contribution graph" />
-<img src="https://raw.githubusercontent.com/gugajac/gugajac/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pac-Man contribution graph" />
 
 </div>
 

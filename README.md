@@ -22,7 +22,7 @@ Gosto de trabalhar na ponte entre software e hardware: de APIs e bases de dados 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gugajac/gugajac/main/assets/stack.svg" alt="Python, FastAPI, MySQL, Arduino IDE, Java, Kotlin, Redes" />
+<img src="https://raw.githubusercontent.com/gugajac/gugajac/main/assets/stack.svg" alt="Stack: Python, Java, Kotlin, C++, FastAPI, MySQL, SQL Server, VS Code, Android Studio, Git, GitHub, AutoCAD, Docker, Arduino IDE, Redes" />
 
 </div>
 

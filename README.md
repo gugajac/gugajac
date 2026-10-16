@@ -38,13 +38,5 @@ Gosto de trabalhar na ponte entre software e hardware: de APIs e bases de dados 
 
 <br>
 
-## Contacto
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavojacouto/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gugajac)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=120&section=footer&text=Obrigado%20pela%20visita&fontSize=16&fontColor=8b8b8b&fontAlignY=72" alt="Rodapé" width="100%" />
